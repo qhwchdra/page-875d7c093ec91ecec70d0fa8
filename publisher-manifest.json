@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "577464746b02d8ad24131c7a",
+  "owner": "qhwchdra",
+  "repo": "page-875d7c093ec91ecec70d0fa8",
+  "title": "FastPass",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "875d7c093ec91ecec70d0fa8",
+      "a": "FastPass",
+      "b": "",
+      "entity": "FastPass",
+      "brand": "FastPass",
+      "separator": "",
+      "path": "index.html",
+      "hash": "961710604dc28ac0a4b123f43af619f8c79a46d09265bb07cbe997ce1ff5b3ce",
+      "content": {
+        "keyword1": "FastPass",
+        "keyword2": "",
+        "primary_entity": "FastPass",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "FastPass：通过问答式引导让您找到最适合您的流量方案。奶油黄与墨绿调色，简洁明了的导航与服务详情，专为高效上网设计。",
+          "AI_DESCRIPTION": "FastPass：通过问答式引导让您找到最适合您的流量方案。奶油黄与墨绿调色，简洁明了的导航与服务详情，专为高效上网设计。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        500;700&amp;display=swap');\n        :root {--primary: #f5e8c7;--accent: #2e2e2e;--text: #1a1a1a;--light: #f9f4e8;--green: #4a7043}\n        * {box-sizing: border-box;margin:0;padding:0}\n        body {font-family: 'Noto Sans SC', system-ui, sans-serif;line-height: 1.7;color: var(--text);background: #fff;max-width: 1280px;margin: 0 auto}\n        header {background: #f9f4e8;border-bottom: 3px solid #2e2e2e;position: sticky;top: 0;z-index: 100}\n        .header-content {display: flex;align-items: center;justify-content: space-between;padding: 1rem 2rem;max-width: 1280px;margin: 0 auto}\n        .logo {font-size: 2.2rem;font-weight: 700;color: var(--green);letter-spacing: -0.5px}\n        .breadcrumb {font-size: 0.9rem;color: #666}\n        .breadcrumb a {color: #2e2e2e;text-decoration: none}\n        .hero {background: linear-gradient(135deg, #f9f4e8 0%, #fff 100%);min-height: 100vh;display: flex;align-items: center;padding: 4rem 2rem;position: relative;overflow: hidden}\n        .hero-content {max-width: 780px;margin: 0 auto}\n        .hero-content h1 {font-size: 4.2rem;font-weight: 700;line-height: 1.05;color: var(--text);margin-bottom: 1.2rem;letter-spacing: -2px}\n        .hero-content .tagline {font-size: 1.35rem;color: #2e2e2e;max-width: 620px;margin-bottom: 2.5rem}\n        .hero-info {background: #fff;padding: 2rem 2.2rem;border: 3px solid #2e2e2e;box-shadow: 12px 12px 0 #2e2e2e;max-width: 420px;margin: 0 auto 2rem}\n        .hero-info p {font-size: 1.1rem;color: var(--text);margin-bottom: 1.5rem}\n        .quick-links {display: flex;gap: 1rem;flex-wrap: wrap}\n        .quick-links a {background: var(--primary);color: var(--text);padding: 0.75rem 1.5rem;border-radius: 4px;text-decoration: none;font-weight: 500;font-size: 1rem;border: 2px solid #2e2e2e}\n        .quick-links a:hover {background: var(--green);color: #fff}\n        .section {padding: 5rem 2rem;max-width: 1280px;margin: 0 auto}\n        h2 {font-size: 2.8rem;margin-bottom: 1.5rem;border-bottom: 3px solid var(--primary);padding-bottom: 0.5rem;display: inline-block}\n        .plans-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));gap: 2rem;max-width: 1280px;margin: 0 auto}\n        .plan-card {background: #fff;border: 4px solid #2e2e2e;padding: 2.5rem 2rem;position: relative;box-shadow: 8px 8px 0 #2e2e2e;transition: transform 0.3s}\n        .plan-card:hover {transform: translateY(-12px)}\n        .plan-card h3 {font-size: 1.8rem;margin-bottom: 0.5rem}\n        .plan-card .price {font-size: 3.2rem;font-weight: 700;color: var(--green);margin-bottom: 0.5rem}\n        .plan-card .annual {font-size: 1.1rem;color: #666;margin-bottom: 1.8rem}\n        .plan-card .num {position: absolute;top: -18px;right: 24px;font-size: 5.5rem;font-weight: 900;color: #2e2e2e;opacity: 0.12;line-height: 1}\n        .plan-card ul {list-style: none}\n        .plan-card ul li {padding: 0.75rem 0;border-bottom: 1px solid #eee;font-size: 1.05rem}\n        .plan-card ul li:last-child {border-bottom: none}\n        .faq-section {background: #f9f4e8}\n        .faq-content {max-width: 1280px;margin: 0 auto}\n        .faq-item {margin-bottom: 1.5rem;background: #fff;border: 3px solid #2e2e2e;padding: 1.5rem;position: relative}\n        .faq-item .num {position: absolute;top: -12px;left: 18px;font-size: 2rem;font-weight: 900;color: var(--green);background: #fff;padding: 0 12px}\n        .faq-item summary {font-size: 1.25rem;font-weight: 500;cursor: pointer;padding: 0.75rem 0;display: flex;align-items: center;gap: 12px}\n        .faq-item summary::-webkit-details-marker {display: none}\n        .faq-answer {margin-top: 1rem;padding-left: 1.2rem;border-left: 3px solid var(--primary);color: #333;font-size: 1.05rem}\n        .footer {background: #2e2e2e;color: #f5e8c7;padding: 3rem 2rem 2rem;text-align: center}\n        .footer a {color: #f5e8c7;text-decoration: none}\n        @media (max-width: 768px) {\n            .hero-content h1 {font-size: 3.1rem}\n            .plans-grid {grid-template-columns: 1fr}\n            .hero-info {max-width: 100%;margin: 0 0 1.5rem}\n        }\n    </style><header>\n        <div class=\"header-content\">\n            <div class=\"logo\">FastPass</div>\n            <div class=\"breadcrumb\">\n                <a href=\"#\">首页</a> / <a href=\"#\">服务</a> / <a href=\"#\">选择方案</a>\n            </div>\n        </div>\n    </header>\n\n    <section class=\"hero\">\n        <div class=\"hero-content\">\n            <h1>FastPass</h1>\n            <p class=\"tagline\">通过问答式引导找到最适合您的流量方案</p>\n            <div class=\"hero-info\">\n                <p>奶油黄与墨绿调色设计，简洁明了的导航与服务详情，专为高效上网而生。</p>\n                <div class=\"quick-links\">\n                    <a href=\"#plans\">立即查看方案</a>\n                    <a href=\"#faq\">常见问题</a>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    <section class=\"section\" id=\"plans\">\n        <h2>流量方案</h2>\n        <div class=\"plans-grid\">\n            \n            <div class=\"plan-card\">\n                <div class=\"num\">01</div>\n                <h3>基础版</h3>\n                <div class=\"price\">¥15<span>/月</span></div>\n                <div class=\"annual\">按年付仅需 ¥150/年</div>\n                <ul>\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n            \n            \n            <div class=\"plan-card\">\n                <div class=\"num\">02</div>\n                <h3>旗舰版</h3>\n                <div class=\"price\">¥35<span>/月</span></div>\n                <div class=\"annual\">按年付仅需 ¥350/年</div>\n                <div>推荐</div>\n                <ul>\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n            \n            \n            <div class=\"plan-card\">\n                <div class=\"num\">03</div>\n                <h3>团队版</h3>\n                <div class=\"price\">¥85<span>/月</span></div>\n                <div class=\"annual\">按年付仅需 ¥850/年</div>\n                <ul>\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </div>\n    </section>\n\n    <section class=\"section faq-section\" id=\"faq\">\n        <h2>常见问题</h2>\n        <div class=\"faq-content\">\n            \n            <details class=\"faq-item\">\n                <summary>我该如何选择适合自己的流量方案？</summary>\n                <div class=\"faq-answer\">\n                    <p>根据您的设备数量、需要解锁的流媒体类型以及预算来决定。基础版适合个人单人使用，旗舰版则提供更全面的加速支持，而团队版适合多人共同使用或企业环境。建议根据当前流量需求先选择旗舰版试用。</p>\n                </div>\n            </details>\n            \n            \n            <details class=\"faq-item\">\n                <summary>年付方案比月付划算吗？</summary>\n                <div class=\"faq-answer\">\n                    <p>是的，按年付能显著降低每月成本。例如基础版年付只需 ¥150，比12个月 ¥180 节省 ¥30。所有方案均支持年付模式，具体以页面显示的年付价格为准。</p>\n                </div>\n            </details>\n            \n            \n            <details class=\"faq-item\">\n                <summary>如何使用设备连接？</summary>\n                <div class=\"faq-answer\">\n                    <p>下载对应客户端后，输入您的账号信息即可连接。旗舰版支持 5 台设备同时在线，团队版更适合多用户环境。连接后可通过仪表盘实时查看流量使用情况。</p>\n                </div>\n            </details>\n            \n            \n            <details class=\"faq-item\">\n                <summary>流媒体解锁是否包含所有平台？</summary>\n                <div class=\"faq-answer\">\n                    <p>基础版支持基础解锁，旗舰版提供全节点原生流媒体解锁，覆盖主流视频和音频平台。团队版在 VIP 高带宽节点基础上同样提供完整解锁能力。</p>\n                </div>\n            </details>\n            \n            \n            <details class=\"faq-item\">\n                <summary>客服支持时间和方式是什么？</summary>\n                <div class=\"faq-answer\">\n                    <p>旗舰版和团队版均提供 7x24 优先工单服务。基础版则提供标准工单响应时间。所有客服均通过平台内消息或专用电话支持。</p>\n                </div>\n            </details>\n        </div>\n    </section>\n\n    <footer class=\"footer\">\n        <div>\n            <div class=\"logo\">FastPass</div>\n            <p>通过问答式引导找到最适合您的流量方案</p>\n            <p>© 2026 FastPass • 专为高效上网设计 • 所有方案已写入正文</p>\n        </div>\n    </footer></main>",
+          "hash": "5a0c0ad6f44a35bef4091130060492955f5e107095bfc2de66709a40d180030f",
+          "seo": {
+            "title": "FastPass - 专为您的网络选择而生",
+            "keywords": "FastPass,品牌介绍,套餐说明,客户端,常见问题",
+            "description": "FastPass：通过问答式引导让您找到最适合您的流量方案。奶油黄与墨绿调色，简洁明了的导航与服务详情，专为高效上网设计。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "2374",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "5 奶油黄配墨绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uwrnhdu.cn",
+    "host": "p-106b1d0303.uwrnhdu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "6b735d891398abe64757583ae1fa449729745fbc2a0b04c6d184f215e69b8c8b",
+    "sitemap.xml": "c741167374adb364e423c8662911f53549b92ba90439fc047f18eb167d67c303",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5d561ae83f032134d6b1a0533c0b7f2e2602e175cc2005af1fef10d5d666491e",
+    "robots.txt": "4d340ac3d84f6c793a6e9b275e44d69880e962a063f6ca280587e271ac7cd9f2",
+    "2670f0b24d2597aaa6128b0f36648dca.txt": "155f999d6ce7bad897593a1965601ede1ac318973300f838b7edf45632c5a330"
+  },
+  "revision": "d4eba014c53eeee5b553b089d6bf77244fbac7ed7088106d9cdd60f5bc9ee283"
+}
